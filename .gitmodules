@@ -1,0 +1,18 @@
+[submodule "modules/puppi"]
+	path = modules/puppi
+	url = https://github.com/example42/puppi.git
+[submodule "modules/sudo"]
+	path = modules/sudo
+	url = https://github.com/saz/puppet-sudo.git
+[submodule "modules/memcached"]
+	path = modules/memcached
+	url = https://github.com/saz/puppet-memcached.git
+[submodule "modules/mysql"]
+	path = modules/mysql
+	url = https://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "modules/cpan"]
+	path = modules/cpan
+	url = https://github.com/opentodonet/puppet-cpan.git
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
