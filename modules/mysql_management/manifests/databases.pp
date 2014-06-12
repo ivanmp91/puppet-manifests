@@ -1,4 +1,4 @@
-class mysql-management::databases {
+class mysql_management::databases {
 	$databases = {
                 'db1' => {
                         ensure  => 'present',
